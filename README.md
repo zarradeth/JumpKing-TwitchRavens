@@ -1,3 +1,14 @@
+> [!CAUTION]
+> This version of the Punishment mod will not work with the [recent Jump King update](https://store.steampowered.com/news/app/1061090?emclan=103582791464350392&emgid=6664834250995074173)!
+>
+> This mod has been ported to use the new official mod support-  
+> You can subscribe to the mod on the steam workshop here: https://steamcommunity.com/sharedfiles/filedetails/?id=3164376082  
+> The source code and documentation for this port is available here: https://github.com/zarradeth/JumpKing-Punishment  
+>
+> New releases and updates to this version of the mod will not be made and will instead be made to the new repository and workshop item!
+
+New releases and updates to this version of the mod will not be made and will instead be made to the new repository and workshop item!
+
 # Please read our [Getting Started Guide](docs/GettingStarted.md) to install the Ravens or Modifier/Chaos Mode Mods
 
 # Jump King Chat Raven Mod
