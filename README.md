@@ -7,8 +7,6 @@
 >
 > New releases and updates to this version of the mod will not be made and will instead be made to the new repository and workshop item!
 
-New releases and updates to this version of the mod will not be made and will instead be made to the new repository and workshop item!
-
 # Please read our [Getting Started Guide](docs/GettingStarted.md) to install the Ravens or Modifier/Chaos Mode Mods
 
 # Jump King Chat Raven Mod
