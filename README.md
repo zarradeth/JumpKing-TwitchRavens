@@ -1,6 +1,8 @@
 > [!CAUTION]
 > This version of the Punishment mod will not work with the [recent Jump King update](https://store.steampowered.com/news/app/1061090?emclan=103582791464350392&emgid=6664834250995074173)!
->
+> If you would like to play this specific version of the mod for some reason you may be able to swap to an older version of Jump King in the game's properties on steam.  
+> ![image](https://github.com/zarradeth/JumpKing-TwitchRavens/assets/20621507/e5c3fb44-b1f7-4993-b8c2-21e3633b7275)
+> 
 > This mod has been ported to use the new official mod support-  
 > You can subscribe to the mod on the steam workshop here: https://steamcommunity.com/sharedfiles/filedetails/?id=3164376082  
 > The source code and documentation for this port is available here: https://github.com/zarradeth/JumpKing-Punishment  
